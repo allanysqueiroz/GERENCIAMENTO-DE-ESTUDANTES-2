@@ -2,9 +2,14 @@
 # 🎓 Mini Projeto — Sistema de Estudantes (Terminal)
 
 ## 🧠 Descrição
-Projeto simples em Node.js que permite gerenciar estudantes pelo terminal, com operações de CRUD.
+Projeto simples em Node.js, em sistema JavaScript que gerencie informações de estudantes utilizando arrays e objetos.
 
-## 🚀 Como executar
-1. Instalar dependências:
-   ```bash
-   npm install
+📘 Funcionalidades
+
+Listar estudantes
+
+Adicionar novo estudante
+
+Atualizar dados
+
+Remover estudante
